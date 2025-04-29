@@ -169,7 +169,7 @@
             ctx.scale(0.75, 0.75);
             ctx.font = "12px,Verdana"; // 字号肿么没有用? (ˉ(∞)ˉ)
             ctx.fillText("Click Me:) ", 30, -5);
-            ctx.fillText("Birthday lakshmi !", 28, 10);
+            ctx.fillText("Happy Birthday lakshmi !", 28, 10);
             ctx.restore();
         },
         clear: function() {
